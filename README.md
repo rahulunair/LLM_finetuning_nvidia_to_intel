@@ -1,7 +1,7 @@
 # LLM Fine-Tuning Using QLoRA on Intel GPUs - MVP Codebase
 
 ## Overview
-This repository contains a minimal viable product (MVP) for fine-tuning Large Language Models (LLMs) using Quantized Low Rank Adaptation (QLoRA) in 4 bits on Intel GPUs. The code demonstrates how to port a model from Nvidia to Intel GPUs, focusing on simplicity.
+This repository contains an MVP example on fine-tuning Large Language Models (LLMs) using Quantized Low Rank Adaptation (QLoRA) in 4 bits on Intel GPUs. The code demonstrates how to port a model from Nvidia to Intel GPUs, focusing on simplicity.
 
 For more extensive examples on running GenAI workloads on Intel GPUs, checkout this [repo](https://github.com/rahulunair/GenAI).
 
