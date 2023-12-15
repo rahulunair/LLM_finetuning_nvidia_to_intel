@@ -16,3 +16,10 @@ Clone the repository and follow the instructions in the Jupyter Notebook to set 
 ## Additional Resources
 - For a more extensive tutorial on fine-tuning LLMs using this approach on Intel® Data Center GPU Max 1100, check out the **LLM Finetuning notebook** under **"GenAI Essentials"** on IDC.
 - Nvidia GPU training reference: [Google Colab Notebook](https://colab.research.google.com/drive/1H1SHcmYrHiHtAIJwMXT4E7dhXDLqvGtr?usp=sharing).
+
+## 🚀 Geeky Stats Alert! 🎨
+
+Rough time taken s on finetuning LLMs using QLoRA using the alpaca dataset for LLama2 7b and LLama2 70b models:
+
+![llama2_7b_fine_tuning_time](https://github.com/rahulunair/LLM_finetuning_nvidia_to_intel/assets/786476/7cb46a8d-857c-4e35-a293-b136387feaff)
+![llama2_70b_fine_tuning_time](https://github.com/rahulunair/LLM_finetuning_nvidia_to_intel/assets/786476/8eaba36a-ed82-4d0d-9f27-99bcbff5f8ac)
