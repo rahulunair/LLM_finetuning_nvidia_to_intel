@@ -5,7 +5,7 @@ This repository contains a minimal viable product (MVP) for fine-tuning Large La
 
 ### Features
 - **LLM Loading and Training**: Loads the "NousResearch/Nous-Hermes-Llama-2-7b" LLM model and fine-tunes it using the PEFT library from Hugging Face 🤗.
-- **Intel Developer Cloud Integration**: Designed to run seamlessly on the Intel Developer Cloud (IDC) platform.
+- **Intel Developer Cloud Integration**: Designed to run seamlessly on the [Intel Developer Cloud](https://cloud.intel.com) (IDC) platform.
 - **Reference for Nvidia GPUs**: Includes a reference for running similar training on Nvidia GPUs on Google Collab.
 
 ## Getting Started
